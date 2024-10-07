@@ -1,5 +1,5 @@
 - 😊 Hi, I’m Levi Ignacio and i'm a beginner mobile developer.
-- 📫 How to reach me on instagram: @levi_i2nd
+- 📫 How to reach me on instagram: @levi.ign
 - 👀 I’m interested in requirements analysis
 - 🌱 I’m currently learning python, SQL and software process
 
